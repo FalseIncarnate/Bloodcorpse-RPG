@@ -1,0 +1,38 @@
+~Character
+Debugger the 3rd
+false
+1 0 0
+100 100
+90
+45
+10
+10
+10
+10
+10
+~Equip
+-1 -1 -1
+~Armor
+1 0 1 0 0 1 0
+~Weapon
+0 0 0 1 0 0
+~Offhand
+0 0 1 0 0
+~Tool
+0 0 0 0 0 0
+~Food
+0 0 0 0 0 0
+~Potion
+0 0 0 0 0 0 0 0
+~General
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+~Buffs
+0 0 1 0 0
+~Effects
+false false false false true
+~Legacy
+0
+0
+0
+~Progress
+true
